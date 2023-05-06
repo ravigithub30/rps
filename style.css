@@ -27,6 +27,7 @@ body {
 }
 .paper.image {
   padding: 10px;
+  align-text:center;
 }
 .paper.image p {
   font-size: 30px;
